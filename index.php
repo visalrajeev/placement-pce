@@ -46,7 +46,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand page-scroll" href="pce.ac.in/">PILLAI COLLEGE OF ENGINEERING</a>
+                    <a class="navbar-brand page-scroll" href="https://www.pce.ac.in/">PILLAI COLLEGE OF ENGINEERING</a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
