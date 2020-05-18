@@ -1,9 +1,9 @@
 <?php
 
-$db['db_host']='ec2-54-246-85-151.eu-west-1.compute.amazonaws.com';
-$db['db_user']='acwcmjsesiiimf';
-$db['db_pass']='3c302a2a83cf5e3e643585a1546e01b273e138002504d57b2932cbb6fdd9cdef';
-$db['db_name']='miniproject';
+$db['db_host']='zwgaqwfn759tj79r.chr7pe7iynqr.eu-west-1.rds.amazonaws.com';
+$db['db_user']='j62ddodka9k5mhgq';
+$db['db_pass']='h3tnum2q51pgaced';
+$db['db_name']='of1jgn58ph93e6xu';
 
 
 foreach ($db as $key => $value) {
